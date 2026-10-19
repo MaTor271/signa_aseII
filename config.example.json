@@ -1,0 +1,11 @@
+{
+  "camera_source": "0",
+  "dominant_hand": "Right",
+  "use_pose": false,
+  "min_hold_s": 0.25,
+  "min_move_s": 0.10,
+  "move_speed_hi": 2.0,
+  "move_speed_lo": 1.0,
+  "min_conf": 0.70,
+  "min_margin": 0.20
+}

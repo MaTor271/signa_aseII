@@ -1,0 +1,10 @@
+# Raspberry Pi CM5 (Raspberry Pi OS 64-bit): solo ejecución, sin TensorFlow.
+# Picamera2 se instala con apt (python3-picamera2); crear el venv con --system-site-packages.
+mediapipe==1.0.1
+opencv-python
+numpy
+pillow
+ai-edge-litert==2.2.0
+sounddevice
+piper-tts==1.8.0
+vosk==0.3.45
